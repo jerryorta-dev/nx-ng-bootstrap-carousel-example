@@ -17,7 +17,7 @@
         "inlineStyleLanguage": "scss",
         "assets": ["apps/carousel/src/favicon.ico", "apps/carousel/src/assets"],
         "styles": ["apps/carousel/src/styles.scss"],
-        "scripts": []
+        "scripts": ["node_modules/bootstrap/dist/js/bootstrap.min.js"]
       },
       "configurations": {
         "production": {
